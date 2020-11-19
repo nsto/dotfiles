@@ -96,7 +96,7 @@ fi
 #
 # Example aliases
 # Added a comment
-# Added another comment
+# Added anothe comment
 alias zshconfig="vim ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias config='/usr/bin/git --git-dir=/home/nstovall/.cfg/ --work-tree=/home/nstovall'
