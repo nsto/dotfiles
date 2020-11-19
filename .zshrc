@@ -83,7 +83,7 @@ source $ZSH/oh-my-zsh.sh
 if [[ -n $SSH_CONNECTION ]]; then
   export EDITOR='vim'
 else
-  export EDITOR='mvim'
+  export EDITOR='vim'
 fi
 
 # Compilation flags
@@ -96,6 +96,7 @@ fi
 #
 # Example aliases
 # Added a comment
+# Added anothe comment
 alias zshconfig="vim ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias config='/usr/bin/git --git-dir=/home/nstovall/.cfg/ --work-tree=/home/nstovall'
