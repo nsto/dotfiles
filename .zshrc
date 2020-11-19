@@ -95,6 +95,9 @@ fi
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
+# Added a comment
+# Added another comment
+alias zshconfig="vim ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias config='/usr/bin/git --git-dir=/home/nstovall/.cfg/ --work-tree=/home/nstovall'
+alias ll=ls -lAh
